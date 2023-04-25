@@ -5,7 +5,7 @@ from time import sleep
 def f(taskno,return_dict):
     sleep(2)
     # 存放计算结果到共享对象中
-    return_dict[taskno] = taskno
+    return_dict[taskno] = taskno*99+taskno/3242
 
 if __name__ == '__main__':
     start=time.perf_counter()
