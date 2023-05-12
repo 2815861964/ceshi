@@ -1,0 +1,11 @@
+熟悉Python，掌握基本语法，了解Os，Requests，Bs4，Selenium等常用库
+熟悉c#语言，熟悉基本语法，具备webform，.net core mvc，ef core等技术
+熟悉微信小程序开发，具有小程序开发经验，熟练使用vantui，mobx等js包，有云开发基础
+熟悉Html，Css，JavaScript
+熟悉SqlSever数据库，掌握基本概念结构，具备数据库的查询语句编写能力
+熟悉计算机网络，具备网络基础知识，如TCP/IP协议、OSI模型等,网络拓扑结构和网络协议的设计,网络设备的配置和管理
+了解Java语言，了解基本语法，使用过Springmvc框架
+了解Git的基本使用
+
+
+
